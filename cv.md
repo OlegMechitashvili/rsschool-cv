@@ -29,3 +29,15 @@ let result = findSumm(n);
     return result;
  }
   ```
+  
+#### 5. Experience.
+I have no big experience in web development, so far I just studied HTML, CSS and JavaScript on my own with tutorials on some Youtube chanels and several courses on Udemy.
+I have no completed project so far.
+
+#### 6. Education
+Name of the Education Establishment: Drohobych Teachers Training University
+Faculty: Rusian Language and Litetature, English Languages and Forein Literature.
+Degree (diploma): Bachelor
+
+#### 7. English level B1.
+Unfortunately, I do not have regular language practice, but due to my work in the marketing department of a machine-building company, I have possibility to practice my English when communicating with foreign partners time to time but not regulary. It allows me to keep my English on B1 level.
