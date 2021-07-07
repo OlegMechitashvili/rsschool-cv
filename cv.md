@@ -12,3 +12,20 @@ I do not have a profile education in the field of information technology, but I 
 * Figma
 * Photoshop
 * Visual Studio Code.
+
+#### 4. My code example
+```
+function findSumm(n) {
+    let summ = 0;
+    for (i of n.toString().split('')) {
+        summ += parseInt(i);
+    }
+    return summ;
+};
+let result = findSumm(n);
+    while (result > 9) {
+        result = findSumm(result);
+    }
+    return result;
+ }
+  ```
