@@ -19,6 +19,21 @@ I do not have a profile education in the field of information technology, but I 
 
 #### 4. My code example
 
+```
+function findSumm(n) {
+    let summ = 0;
+    for (i of n.toString().split('')) {
+        summ += parseInt(i);
+    }
+    return summ;
+};
+let result = findSumm(n);
+    while (result > 9) {
+        result = findSumm(result);
+    }
+    return result;
+```
+
 #### 5. Experience.
 
 I have no big experience in web development, so far I just studied HTML, CSS and JavaScript on my own with tutorials on some Youtube chanels and several courses on Udemy.
